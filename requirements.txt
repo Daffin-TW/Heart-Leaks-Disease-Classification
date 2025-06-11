@@ -1,0 +1,5 @@
+tensorflow==2.19.0
+python-ffmpeg==2.0.12
+pandas
+numpy
+
