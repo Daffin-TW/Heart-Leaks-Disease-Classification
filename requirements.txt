@@ -3,3 +3,6 @@ python-ffmpeg==2.0.12
 pandas
 numpy
 pillow==11.2.1
+seaborn==0.13.2
+scikit-learn==1.7.0
+matplotlib==3.10.3
