@@ -213,10 +213,10 @@ Execute the Jupyter notebooks in chronological order:
 
 ## 👥 Authors & Acknowledgments
 
-- **Daffin Thoriq Wijaya** ([@Daffin-TW](https://github.com/Daffin-TW))
+- **Daffin Tanjiro Widison** ([@Daffin-TW](https://github.com/Daffin-TW))
 - **Ikmal Thariq Kadafi**
 
-Developed as part of the **MBKM Advanced Computer Vision** initiative. Special thanks to clinical datasets and academic mentors supporting computer vision applications in medical healthcare diagnostics.
+Developed as part of the **MBKM Advanced With Unity** initiative. Special thanks to clinical datasets and academic mentors supporting computer vision applications in medical healthcare diagnostics.
 
 ---
 
